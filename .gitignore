@@ -1,0 +1,9 @@
+bin/
+obj/
+.data/
+*.log
+.env
+node_modules/
+playwright-report/
+test-results/
+publish/
